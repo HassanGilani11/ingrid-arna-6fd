@@ -1,0 +1,19 @@
+https://fonts.google.com/specimen/Julius+Sans+One?sidebar.open=true&selection.family=Josefin+Sans:wght@100;300;400;700|Julius+Sans+One|Lato:wght@300;400;700|Montserrat:wght@100;200;300;400;500;700|Open+Sans:wght@300;400;700|Oswald:wght@300;400;500;700|Poppins:wght@200;300;400;500;700;900|Prata|Rozha+One&query=juliu
+
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;700&family=Julius+Sans+One&family=Lato:wght@300;400;700&family=Montserrat:wght@100;200;300;400;500;700&family=Open+Sans:wght@300;400;700&family=Oswald:wght@300;400;500;700&family=Poppins:wght@200;300;400;500;700;900&family=Prata&family=Rozha+One&display=swap" rel="stylesheet">
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Prata', serif;
+font-family: 'Rozha One', serif;
+
+https://fonts.google.com/share?selection.family=Cormorant%20Garamond:wght@300;400;500;600;700%7CCormorant:wght@300;400;500;600;700%7CLato:ital,wght@0,300;0,400;0,700;0,900;1,700
+
+font-family: 'Cormorant', serif;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Lato', sans-serif;
